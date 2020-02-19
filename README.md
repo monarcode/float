@@ -1,1 +1,1 @@
-# simple floating bubbles with html and css
+# Simple floating bubbles with html and css
